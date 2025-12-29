@@ -1,2 +1,2 @@
-# tarango-painting
+# Tarango Painting 
 
